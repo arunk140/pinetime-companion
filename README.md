@@ -1,12 +1,14 @@
----
+# PineTime Companion
 
-### Currently working -
+### A Flutter App for interacting with the PineTime Watch over BLE.
+
+#### Currently working -
 
 - Time Sync
 - Heartrate Fetch
 - Firmware Version Fetch and Compare with the InfiniTime Repo
 
-### TODO -
+#### TODO -
 
 - One Click Update Firmware
 - App as a Foreground Service
